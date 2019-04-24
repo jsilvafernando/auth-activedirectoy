@@ -1,0 +1,14 @@
+{
+  "name": "ldapjs",
+  "version": "1.0.0",
+  "description": "ldap auth FEAGRI",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fjsilva@unicamp.br",
+  "license": "ISC",
+  "dependencies": {
+    "activedirectory": "^0.7.2"
+  }
+}
